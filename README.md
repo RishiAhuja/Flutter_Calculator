@@ -8,8 +8,6 @@ A flutter calculator rendered with ❤️ by Rishi Ahuja in India. This is the f
 
 [Click here to download the Calculator for Android app](https://play.google.com/store/apps/details?id=com.rishi.calculatorapp).
 
-https://img.shields.io/badge/Language-Flutter-blue
-
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
