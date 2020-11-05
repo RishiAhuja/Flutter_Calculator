@@ -1,6 +1,6 @@
 # Flutter_Calculator 
 
-A Flutter calculator made with ❤️ Rishi Ahuja. This app is the finest coded app using flutter published on Playstore
+A Flutter calculator made with ❤️ Rishi Ahuja. This app is the finest coded app using flutter published on [Playstore](https://play.google.com/store/apps/details?id=com.rishi.calculatorapp)
 
 ## Getting Started
 
